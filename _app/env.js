@@ -1,0 +1,1 @@
+export const env={"PUBLIC_REPO_DIR":"/home/yorian/AndroidStudioProjects/upload-centaurestest"}

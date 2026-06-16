@@ -1,0 +1,1 @@
+import{p as r}from"./CsCOkb1i.js";import{s as t}from"./wHE8-ec6.js";const e={get error(){return r.error},get params(){return r.params},get status(){return r.status},get url(){return r.url}};t.updated.check;const p=e;export{p};

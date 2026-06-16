@@ -3,6 +3,6 @@
   "kdf": "PBKDF2",
   "hash": "SHA-256",
   "iterations": 310000,
-  "salt": "9C6KYryg8PZzKXokCYEmNw==",
-  "check": "RU5DMQCFECnhcGzhPwx9vQagqMfp5SPhcz16W3f9ZX2vBU/REThMWII7IzdeSg=="
+  "salt": "XJb0zXweAEZJYNQRvwOosw==",
+  "check": "RU5DMXXd4SUs0O/XAVViGNzGCSg4QJyTTHLf6n5w+MgNSQQmRjunafyTUq+WmA=="
 }

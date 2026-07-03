@@ -1,1 +1,0 @@
-import{p as r}from"./HV0-RTt4.js";import{s as t}from"./I8nXitTv.js";const e={get error(){return r.error},get params(){return r.params},get status(){return r.status},get url(){return r.url}};t.updated.check;const p=e;export{p};

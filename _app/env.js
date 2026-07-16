@@ -1,1 +1,1 @@
-export const env={"PUBLIC_REPO_DIR":"/home/yorian/AndroidStudioProjects/upload-centaurestest"}
+export const env={"PUBLIC_REPO_DIR":"/home/yorian/Projects/upload-centaurestest"}
